@@ -9,7 +9,7 @@ Maven parent POM for `kstuff` projects
 
 Includes plugin definitions for deployment to Sonatype Central.
 
-The current version is 1.0 &ndash; this version uses Kotlin 1.9.24, and the default Java version is 1.8.
+The current version is 1.0.1 &ndash; this version uses Kotlin 1.9.24, and the default Java version is 1.8.
 
 ## Usage
 
@@ -17,7 +17,7 @@ The current version is 1.0 &ndash; this version uses Kotlin 1.9.24, and the defa
   <parent>
     <groupId>io.kstuff</groupId>
     <artifactId>kstuff-maven</artifactId>
-    <version>1.0</version>
+    <version>1.0,1</version>
   </parent>
 ```
 

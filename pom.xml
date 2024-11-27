@@ -5,7 +5,7 @@
 
   <groupId>io.kstuff</groupId>
   <artifactId>kstuff-maven</artifactId>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <name>${project.groupId}:${project.artifactId}</name>
   <description>
     Parent POM for kstuff Maven Kotlin projects
